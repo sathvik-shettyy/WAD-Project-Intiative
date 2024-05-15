@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-image: url('pinterestwebarebears.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.downloads {
+  text-align: center;
+  padding: 40px;
+}
+
+.downloads h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.resource-category {
+  margin-bottom: 30px;
+}
+
+.resource-category h3 {
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

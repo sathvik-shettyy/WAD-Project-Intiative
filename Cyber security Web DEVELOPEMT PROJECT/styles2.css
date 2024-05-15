@@ -1,0 +1,72 @@
+/*General styling*/
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  background-color: #222;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav {
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0;
+  padding: 10px 0;
+}
+
+nav li {
+  margin-left: 20px;
+}
+
+section {
+  padding: 40px 20px;
+}
+
+#portfolio {
+  background-color: #3498db;
+}
+
+#career {
+  background-color: #2980b9;
+}
+
+#client-portal {
+  background-color: #1f618d;
+}
+
+#faq {
+  background-color: #154360;
+}
+
+#incident-response {
+  background-color: #0e2a47;
+}
